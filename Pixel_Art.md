@@ -3,12 +3,6 @@
 [Pixel Art Class](https://youtube.com/playlist?list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_)  <br/>
 <br/>
   
-![TILESET in Photoshop (Tutorial)](http://img.youtube.com/vi/aaEEujLtsr8/0.jpg)  <br/>
-[TILESET in Photoshop (Tutorial)](https://youtu.be/aaEEujLtsr8)   <br/>
-<br/>
-
-![TILESET in Photoshop (Tutorial)](http://img.youtube.com/vi/TD5Rp__T668/0.jpg)  <br/>
-[Everything you need to know about Pixel Art! | Pixel Art Tutorial](https://youtu.be/TD5Rp__T668)  
 
 ## Course
 You can enroll in this course by creating a Coursera account. Click enroll for free, then click audit this course.<br/>
