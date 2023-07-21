@@ -1,6 +1,6 @@
 ## Videos
-![PIXEL ART in Photoshop (Tutorial)](http://img.youtube.com/vi/rLdA4Amea7Y/0.jpg)<br/>
-[PIXEL ART in Photoshop (Tutorial)](https://youtu.be/rLdA4Amea7Y)  <br/>
+![Pixel Art Class](https://img.youtube.com/vi/7BWr2tlK-4c/sddefault.jpg)<br/>
+[Pixel Art Class](https://youtube.com/playlist?list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_)  <br/>
 <br/>
   
 ![TILESET in Photoshop (Tutorial)](http://img.youtube.com/vi/aaEEujLtsr8/0.jpg)  <br/>
@@ -15,4 +15,4 @@ You can enroll in this course by creating a Coursera account. Click enroll for f
 
 ![Pixel Art for Video Games](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-3/assets/103818600/bfab9163-7407-4469-930a-53ceb70d5b7d)
 [Link](https://www.coursera.org/learn/pixel-art-video-games)  
-Complete week 1 and 2 of this course for now.
+Complete week 3 of this course for now.
